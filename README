@@ -1,0 +1,12 @@
+So the background story goes like this. Me and my friends had this “gaming club” back in the days called Button Masters. We used to meet every thursday, eat some pizza and drink some brews and of course play games together. We started out with the GameCube where we played a lot of Super Smash Bros but lately (since the Xbox 360 arrived) we’ve mostly been playing Halo 3. Nowadays we all pretend to be grown up, some of us has moved to new cities (and countries) but we try to meet up at least for christmas and have our own ButtonMasters-christmas (we sometime call it Dinosaurmas since none of us is religious). 
+
+Last year, I wanted to surprise them so I created this game so that we could play something other than Halo 3. To make a long story short, I developed this game on my spare time for about 3 months as a secret. The result was a 6-player coop shooter called BM Elite Force with my friends as the characters, each with their own special abilities.
+
+I found this amazing EP called First Crush by Sabrepulse which I thought would match the game so damn good, so I bought it and used it (and tried to time actions in the game with tempo shifts in the music, the result is not so perfect in my recording because of hardware lag). Since I do not have permission, I cant distribute the music with the game but you can buy it here (name your prize): http://sabrepulse.bandcamp.com/album/first-crush-ep Please do, it is awesome!
+
+This was also my first Ruby-project so the code might be a bit weird in some places. I used LibGosu which was a fantastic library to work with! It is very easy to get started with. The graphics are mostly from SpriteLib (GPL) with some minor modifications.
+
+Download and play it if you want! But note that there is no music, no manual on how to get started (which might be a bit hard if your setup is different than mine) and the game is very very very hard! It is meant to be played in coop, my friends played 4-player coop for an entire evening but was not able to finish the game. (It is only about 10 minutes long.) 
+
+Video on Vimeo with music: 
+The video shows me playing through some parts of the game together with some clips from when my friends where playing it in coop for the first time.
