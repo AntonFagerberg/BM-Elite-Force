@@ -1,3 +1,10 @@
+This repository is mainly for people who want to view the code, not really to download and play the game (even though you can do it to, with some hassle). You can start the game by entering the directory (you can’t launch it from outside the directory) and type “ruby game.rb”. I have not packaged the game (which is possible with Gosu) because the plan was never to release it into the public. This source does not contain any music. 
+
+Video on Vimeo with music: http://vimeo.com/user5392621/bm-elite-force
+The video shows me playing through some parts of the game together with some clips from when my friends where playing it in coop for the first time.
+
+!!! Please read background story below for the full details about this !!!
+
 So the background story goes like this. Me and my friends had this “gaming club” back in the days called Button Masters. We used to meet every thursday, eat some pizza and drink some brews and of course play games together. We started out with the GameCube where we played a lot of Super Smash Bros but lately (since the Xbox 360 arrived) we’ve mostly been playing Halo 3. Nowadays we all pretend to be grown up, some of us has moved to new cities (and countries) but we try to meet up at least for christmas and have our own ButtonMasters-christmas (we sometime call it Dinosaurmas since none of us is religious). 
 
 Last year, I wanted to surprise them so I created this game so that we could play something other than Halo 3. To make a long story short, I developed this game on my spare time for about 3 months as a secret. The result was a 6-player coop shooter called BM Elite Force with my friends as the characters, each with their own special abilities.
@@ -8,5 +15,3 @@ This was also my first Ruby-project so the code might be a bit weird in some pla
 
 Download and play it if you want! But note that there is no music, no manual on how to get started (which might be a bit hard if your setup is different than mine) and the game is very very very hard! It is meant to be played in coop, my friends played 4-player coop for an entire evening but was not able to finish the game. (It is only about 10 minutes long.) 
 
-Video on Vimeo with music: 
-The video shows me playing through some parts of the game together with some clips from when my friends where playing it in coop for the first time.
